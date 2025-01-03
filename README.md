@@ -5,8 +5,9 @@ This repository is referencing in the appendix of my report so that you can have
 
 Below is a list of plugins need for the grasshopper files to work properly. 
 You can install them by using the packagemanager command in Rhino and then typing the relevant name.
-You can also download any that don't pop up on packagemanger off Food4Rhino (https://www.food4rhino.com/en) and Grasshopperdocs (https://grasshopperdocs.com/)
+You can also download any that don't pop up on packagemanger off Food4Rhino (https://www.food4rhino.com/en) and Grasshopperdocs (https://grasshopperdocs.com/).
 
+Have fun with Grasshopper!
 
 ## List of plugins needed for the Grasshopper files
 
