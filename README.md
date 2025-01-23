@@ -14,8 +14,6 @@ You can also download any that don't pop up on packagemanger off Food4Rhino (htt
 > - GH - GSA 
 > - Kangaroo 2
 >   - (should be pre installed into the Grasshopper)
-> - GeomGym
->   - (required an license but free academic license available - follow the instructions on their page https://technical.geometrygym.com/getting-started/installation#step-3-request-licence and use an academic email)
 > - PufferFish
 > - Telepathy
 
