@@ -14,7 +14,6 @@ You can also download any that don't pop up on packagemanger off Food4Rhino (htt
 > - GH - GSA 
 > - Kangaroo 2
 >   - (should be pre installed into the Grasshopper)
-> - PufferFish
 > - Telepathy
 
 
